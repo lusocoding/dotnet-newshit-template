@@ -21,3 +21,8 @@ c:\Repos> dotnet new shit -n MyNewShittyProject
 
 ## Roadmap
 I think this is it. Do not expect further developments or releases... but they can happen. Who knows!?
+
+
+## Thank you
+A big thanks to @psijkof . This wouldn't be possible without your concept! :D 
+Another big thanks to the team that is currently working with me. A lot of productive team lunches since we started!
