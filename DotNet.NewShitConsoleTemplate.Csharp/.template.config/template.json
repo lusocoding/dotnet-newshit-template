@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Nuno Barreiro",
+    "classifications": [ "Console" ],
+    "identity": "Lusocoding.NewShitTemplate.CSharp",
+    "groupidentity": "Lusocoding.NewShitTemplate",
+    "name": "New Sh*t Console",
+    "shortName": "shit",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "DotNet.NewShitConsoleTemplate.Csharp",
+    "preferNameDirectory": true
+}
